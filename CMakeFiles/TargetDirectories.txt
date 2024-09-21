@@ -1,0 +1,3 @@
+/home/si3gfried/Desktop/curse-tui/CMakeFiles/tui_test.dir
+/home/si3gfried/Desktop/curse-tui/CMakeFiles/edit_cache.dir
+/home/si3gfried/Desktop/curse-tui/CMakeFiles/rebuild_cache.dir

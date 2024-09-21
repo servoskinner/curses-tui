@@ -1,0 +1,1 @@
+/usr/bin/c++  -g CMakeFiles/tui_test.dir/source/TUI.cpp.o CMakeFiles/tui_test.dir/source/Focus.cpp.o CMakeFiles/tui_test.dir/source/Misc_functions.cpp.o CMakeFiles/tui_test.dir/source/Animations.cpp.o CMakeFiles/tui_test.dir/source/Timer.cpp.o CMakeFiles/tui_test.dir/TUI_test.cpp.o -o tui_test  -lncurses 
